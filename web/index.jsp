@@ -1,7 +1,7 @@
 <%-- 
     Document   : index
     Created on : 21-feb-2019, 17:28:32
-    Author     : USUARIO
+    Author     : PabloBarrado
 --%>
 
 <%@page contentType="text/html" pageEncoding="windows-1250"%>
@@ -9,9 +9,9 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=windows-1250">
-        <title>JSP Page</title>
+        <title>JSP Page- Proyecto Git</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Hola Mundo</h1>
     </body>
 </html>
